@@ -10,8 +10,8 @@ We have used decision tree algorithm and linear Regression. With the help of pas
 
 We have used Linear Regression to analyse the basic trend of Netflix stocks.
 
-We have used 25 days for future prediction of the opening price using decision tree model.
+1.We have used 25 days for future prediction of the opening price using decision tree model.
 
-We found that the opening prices remains between 400 to 700 according to previous trends.
+2.We found that the opening prices remains between 400 to 700 according to previous trends.
 
-The use of linear regression is to study the trend pattern for opening prices for year 2018 - 2022.
+3.The use of linear regression is to study the trend pattern for opening prices for year 2018 - 2022.
